@@ -7,3 +7,4 @@ My Solutions for LeetCode problems
 | 2 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)| [Java](https://goo.gl/utShAr)| Easy|
 | 3 | [Asteroid-Collision](https://leetcode.com/problems/asteroid-collision/)| [Java](https://goo.gl/jTpaiW)| Medium|
 | 4 | [zigzag-conversion](https://leetcode.com/problems/zigzag-conversion/)| [Java](https://goo.gl/ErQRJC)| Medium|
+| 5 | [add-two-numbers](https://leetcode.com/problems/add-two-numbers)| [Java](https://goo.gl/VMiVHp)| Medium|
