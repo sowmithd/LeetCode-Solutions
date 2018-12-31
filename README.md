@@ -8,3 +8,6 @@ My Solutions for LeetCode problems
 | 3 | [Asteroid-Collision](https://leetcode.com/problems/asteroid-collision/)| [Java](https://goo.gl/jTpaiW)| Medium|
 | 4 | [zigzag-conversion](https://leetcode.com/problems/zigzag-conversion/)| [Java](https://goo.gl/ErQRJC)| Medium|
 | 5 | [add-two-numbers](https://leetcode.com/problems/add-two-numbers)| [Java](https://goo.gl/VMiVHp)| Medium|
+| 6 | [Search_in_Rotated_Sorted_Array](https://leetcode.com/problems/search-in-rotated-sorted-array)| [Java](https://bit.ly/2EYeDko)| Medium|
+| 7 | [sortColors](https://leetcode.com/problems/sort-colors)| [Java](https://bit.ly/2R31sFk)| Medium|
+
