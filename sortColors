@@ -1,0 +1,27 @@
+class Solution {
+    public void sortColors(int[] nums) {
+        //thre pointer left middle and right
+        int left = 0,right =nums.length-1,index =0, middle = 1;
+        while(index <= right){
+            if(nums[index]< middle){
+                swap(nums,left,index);
+                left++;
+                index++;
+            }
+            else if(nums[index]>middle){
+                swap(nums,right,index);
+                right--;
+            }
+            else{
+                index++;
+            }
+        }
+        return;
+    }
+    public void swap(int[] nums, int i, int j){
+        int temp = nums[i];
+        nums[i] = nums[j];
+        nums[j] = temp;
+        return;
+    }
+}
